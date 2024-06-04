@@ -1,0 +1,6 @@
+
+CREATE TABLE tb_vendedor (codigo int(4) NOT NULL AUTO_INCREMENT, nome VARCHAR(80) NOT NULL, endereco VARCHAR(255) NOT NULL,
+meta NUMERIC NOT NULL, venda NUMERIC, PRIMARY KEY(codigo))
+
+
+
